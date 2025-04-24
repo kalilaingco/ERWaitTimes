@@ -1,4 +1,4 @@
-Visit_ID,Patient_ID,Hospital_ID,Hospital_Name,Region,Visit_Date,Day_of_Week,Season,Time_of_Day,Urgency_Level,Nurse-to-Patient_Ratio,Specialist_Availability,Facility_Size_(Beds),Time_to_Registration_(min),Time_to_Triage_(min),Time_to_Medical_Professional_(min),Total_Wait_Time_(min),Patient_Outcome,Patient_Satisfaction
+Visit_ID,Patient_ID,Hospital_ID,Hospital_Name,Region,Visit_Date,Day_of_Week,Season,Time_of_Day,Urgency_Level,Nurse-to-Patient_Ratio,Specialist_Availability,Facility_Size_Beds,Time_to_Registration_min,Time_to_Triage_min,Time_to_Medical_Professional_min,Total_Wait_Time_min,Patient_Outcome,Patient_Satisfaction
 HOSP-1-20240210-0001,PAT-00001,HOSP-1,Springfield General Hospital,Urban,2024-02-10 20:20:56,Saturday,Winter,Late Morning,Medium,4,3,92,17,22,66,105,Discharged,1
 HOSP-3-20241128-0001,PAT-00002,HOSP-3,Northside Community Hospital,Rural,2024-11-28 02:07:47,Thursday,Fall,Evening,Medium,4,0,38,9,30,30,69,Discharged,3
 HOSP-3-20240930-0002,PAT-00003,HOSP-3,Northside Community Hospital,Rural,2024-09-30 04:02:28,Monday,Fall,Evening,Low,5,1,38,38,40,125,203,Discharged,1
